@@ -57,7 +57,8 @@ cat: ./-file0: No such file or directory
 bandit4@bandit:~/inhere$ cat ./-file07
 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 bandit4@bandit:~/inhere$ 
-``` 
-Explicacao 
+```
+
+## Notes
 
 O comando `file` determina os tipos de arquivo, como uma das dicas foi que o arquivo era `human-readable`, ficou obvio que o output seria ASCII
