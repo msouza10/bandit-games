@@ -30,7 +30,7 @@ bandit1@bandit:~$
 
 ``` 
 
-## Explicacao 
+## Notes
 
 Utilizeo o `./` para determinar o local do qual estava realmente executando o cat, quando estamos trabalhando com esses nomes nao absolutos
 O O.S tem problemas para interpretar caminho.
